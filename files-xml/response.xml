@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetCustomerDetailResponse
+        xmlns="http://u2d.com.br"
+        xsi:schemaLocation="http://u2d.com.br customer-information.xsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <CustomerDetail>
+        <id>1</id>
+        <name>David</name>
+        <phone>61986460330</phone>
+        <email>u2dtecnologia@gmail.com</email>
+    </CustomerDetail>
+</GetCustomerDetailResponse>
